@@ -1,0 +1,1 @@
+select * from dbt_practice.dbt_source.car_country
